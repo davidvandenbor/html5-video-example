@@ -97,7 +97,7 @@ video {
 
 .blogbeeld a:active {
 	background: rgb(0, 68, 0);
-	margin-left: 90px;
+	margin-left: 10px;
 }
 
 @keyframes fadeIn {
